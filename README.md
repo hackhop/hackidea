@@ -1,0 +1,2 @@
+# openissue
+any good idea
